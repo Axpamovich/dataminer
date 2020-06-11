@@ -1,3 +1,2 @@
-impord pandas as pososy
-blyad ne rabotaet
-ыг
+impord pandas as pd
+print('Darowa Щeglы')
